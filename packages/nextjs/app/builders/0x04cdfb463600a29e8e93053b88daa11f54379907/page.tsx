@@ -1,5 +1,3 @@
-"use client";
-
 import Image from "next/image";
 import { DiscordIcon, FarcasterIcon, GithubIcon, SpeedRunIcon, TelegramIcon, XIcon } from "./icons";
 import { Address } from "@scaffold-ui/components";
