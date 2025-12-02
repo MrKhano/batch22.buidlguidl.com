@@ -17,7 +17,7 @@ const CrypticdevPage: NextPage = () => {
 
         <div className="flex justify-center items-start gap-8 flex-col lg:flex-row mt-8">
           {/* Main Card */}
-          <div className="flex flex-col bg-base-100 shadow-2xl px-8 py-8 text-center items-center max-w-md rounded-3xl border border-base-300 hover:shadow-primary/20 transition-shadow">
+          <div className="flex flex-col bg-base-100 shadow-2xl px-8 py-8 text-center items-center max-w-md rounded-3xl border border-base-300">
             <div className="mb-4">
               <div className="w-24 h-24 rounded-full bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-4xl font-bold text-primary-content mb-4">
                 CD
